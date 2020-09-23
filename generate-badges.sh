@@ -23,7 +23,7 @@ function processIcon() {
     COLOR_PICKED='FFFFFF'
   fi
 
-  echo "$@" | jq -rc "{ schemaVersion: 1, label: \"\", message: .title, color: .hex, namedLogo: .title, logoColor: \"$COLOR_PICKED\" }"
+  echo "$@" | jq -rc "{ schemaVersion: 1, style: \"flat-square\", label: \"\", message: .title, color: .hex, namedLogo: .title, logoColor: \"$COLOR_PICKED\" }"
 }
 
 function saveIconJson() {
@@ -40,7 +40,7 @@ function appendToReadme() {
   FILENAME="$(echo "$@" | jq -r '.message' | sed -e 's/\(.*\)/\L\1/' | sed -e 's/\s/-/g').json"
   TITLE="$(echo "$@" | jq -r '.message')"
   MARKDOWN_JSON="https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/$FILENAME"
-  MARKDOWN_IMG="https://img.shields.io/endpoint?style=flat-square&url=$MARKDOWN_JSON"
+  MARKDOWN_IMG="https://img.shields.io/endpoint?url=$MARKDOWN_JSON"
   MARKDOWN="![$TITLE]($MARKDOWN_IMG)"
 
   cat <<EOF >> ./badges/README.md
