@@ -157,7 +157,7 @@ Technology stack
     -  [![Microsoft OneNote](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/microsoft-onenote.json)](https://www.onenote.com/)
     -  [![Notion](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/notion.json)](https://www.notion.so/)
     -  [![Slite](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/slite.json)](https://slite.com/)
-    -  [![Tettra](https://img.shields.io/badge/-Tettra-EEEEEE?logo=Tettra)](https://tettra.com/)
+    -  [![Tettra](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/tettra.json)](https://tettra.com/)
 -  Mail
     -  [![Gmail](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/gmail.json)](https://www.google.com/gmail/)
     -  [![Mailgun](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mailgun.json)](https://www.mailgun.com/)
