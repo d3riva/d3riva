@@ -1,4 +1,4 @@
-#TeApetece?
+# TeApetece?
  Te apetece? is a recipe aggregator which scrapes the info from third party data sources and parses its content into an usable output. Te apetece? then arranges the treated recipes into categorized eating plans and, through a relational algorithm, match users with recipes according to needs and/or ingredient availability.
  
   The third party integration of the app also extends to local delivery services, that would directly supply the user with any missing ingredient.
