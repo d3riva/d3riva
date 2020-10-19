@@ -9,7 +9,7 @@
 
   [![Apache](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/apache.json)](https://httpd.apache.org/) [![MySQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mysql.json)](https://www.mysql.com/)
   
-  - ##### Te Apetece? required data scraping from the following sites:
+  - ##### ***TeApetece?*** required data scraping from the following sites:
     - A fuego lento (http://www.afuegolento.com)
     - Gallina blanca (http://www.gallinablanca.es)
     - Jaleo en la cocina (http://www.jaleoenlacocina.com)
@@ -56,7 +56,7 @@ The user has then the option to connect with local guides, which are affiliated 
 
 [![Nginx](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/nginx.json)](https://www.nginx.com/) [![MySQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mysql.json)](https://www.mysql.com/)
 
-- ##### Voito required integration with the following services:
+- ##### ***Voito*** required integration with the following services:
   - El tenedor (http://www.eltenedor.es)
   - Get your guide (http://www.getyourguide.es)
   - Booking (http://www.booking.com)
@@ -72,7 +72,7 @@ The user has then the option to connect with local guides, which are affiliated 
  [![RabbitMQ](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/rabbitmq.json)](https://www.rabbitmq.com/) [![Nginx](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/nginx.json)](https://www.nginx.com/) [![MongoDB](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mongodb.json)](https://www.mongodb.com/what-is-mongodb) [![Redis](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/redis.json)](https://redis.io/) [![MySQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mysql.json)](https://www.mysql.com/)
 [![Docker](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/docker.json)](https://www.docker.com/) [![docker-compose](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/docker-compose.json)](https://github.com/docker/compose) [![Ansible](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/ansible.json)](https://www.ansible.com/)
 
-- ##### Apelucy required integration with the following services:
+- ##### ***Apelucy*** required integration with the following services:
     - Stripe (http://stripe.com)
     - Paypal (http://www.paypal.com)
     - Redsys (http://www.redsys.com)
@@ -95,7 +95,7 @@ Content creators have a private CMS available from which they can upload the exp
  
  [![Nginx](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/nginx.json)](https://www.nginx.com/) [![MongoDB](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mongodb.json)](https://www.mongodb.com/what-is-mongodb) [![Redis](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/redis.json)](https://redis.io/) [![MariaDB](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mariadb.json)](https://mariadb.org/) [![AWS S3](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/amazon-aws.json)](https://aws.amazon.com/en/s3/) [![DigitalOcean](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/digitalocean.json)](https://www.digitalocean.com/) [![Docker](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/docker.json)](https://www.docker.com/) [![docker-compose](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/docker-compose.json)](https://github.com/docker/compose) [![Firebase](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/firebase.json)](https://firebase.google.com/)
  
- - ##### Enjoyerslife required integration with the following services:
+ - ##### ***Enjoyerslife*** required integration with the following services:
    - Stripe (http://stripe.com)
     
 # MMO+
@@ -118,7 +118,7 @@ External private project that attains surebets by integrating with betting house
  
 [![Apache](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/apache.json)](https://httpd.apache.org/) [![MySQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mysql.json)](https://www.mysql.com/)
 
-- ##### Even your odds required data scraping from the following sites:
+- ##### ***Even your odds*** required data scraping from the following sites:
   - William Hill (http://www.williamhill.com/)
   - Bet365 (http://www.bet365.com)
   - Kirolbet (http://www.kirolbet.es)
