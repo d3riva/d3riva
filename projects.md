@@ -1,3 +1,43 @@
+# ApeLucy
+ ApeLucy is a mobile app focused on sponsoring mobile data. By analyzing user engagement through games, video ads, surveys and promotions, ApeLucy then communicates with third party services encapsulated as microservices. These services communicate among each other, handling matters such as redeeming promotions, mobile top ups, gift cards and digital wallet balance variations.
+  
+[![JavaScript](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/javascript.json)](https://www.javascript.com/) [![SASS](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/sass.json)](https://sass-lang.com/) [![HTML5](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/html5.json)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Bootstrap](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/bootstrap.json)](https://getbootstrap.com/)
+
+ [![PHP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/php.json)](https://www.php.net/) [![Laravel](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/laravel.json)](https://laravel.com/) [![Java](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/java.json)](https://www.java.com/)
+ 
+ [![RabbitMQ](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/rabbitmq.json)](https://www.rabbitmq.com/) [![Nginx](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/nginx.json)](https://www.nginx.com/) [![MongoDB](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mongodb.json)](https://www.mongodb.com/what-is-mongodb) [![Redis](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/redis.json)](https://redis.io/) [![MySQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mysql.json)](https://www.mysql.com/)
+[![Docker](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/docker.json)](https://www.docker.com/) [![docker-compose](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/docker-compose.json)](https://github.com/docker/compose) [![Ansible](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/ansible.json)](https://www.ansible.com/)
+
+- ##### ***ApeLucy*** required integration with the following services:
+    - Stripe (http://stripe.com)
+    - Paypal (http://www.paypal.com)
+    - Redsys (http://www.redsys.com)
+    - Paysafecard (http://www.paysafecard.com)
+    - Disashop (http://www.disashop.com)
+    - Epay (https://www.epay.com)
+    - Lucidhq (https://luc.id)
+    - Llamaya (https://www.llamaya.com)
+    - Twilio (https://www.twilio.com)
+    
+# Even your odds
+External private project that attains surebets by integrating with betting houses, scraping odds, analyzing if any variation is present, and recalculating the optimal mix.
+
+ [![JavaScript](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/javascript.json)](https://www.javascript.com/) [![SASS](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/sass.json)](https://sass-lang.com/) [![HTML5](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/html5.json)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Bootstrap](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/bootstrap.json)](https://getbootstrap.com/)
+ 
+ [![PHP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/php.json)](https://www.php.net/) [![Laravel](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/laravel.json)](https://laravel.com/)
+ 
+[![Apache](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/apache.json)](https://httpd.apache.org/) [![MySQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mysql.json)](https://www.mysql.com/)
+
+- ##### ***Even your odds*** required data scraping from the following sites:
+  - William Hill (http://www.williamhill.com/)
+  - Bet365 (http://www.bet365.com)
+  - Kirolbet (http://www.kirolbet.es)
+  - Pinnacle (http://www.pinnacle.com)
+  - Betfair (http://www.betfair.com)
+  - Sportium (http://www.sportium.es)
+  - Luckia (http://luckia.es)
+  - Bwin (http://sports.bwin.com)
+
 # TeApetece?
  Te apetece? is a recipe aggregator which scrapes the info from third party data sources and parses its content into an usable output. Te apetece? then arranges the treated recipes into categorized eating plans and, through a relational algorithm, match users with recipes according to needs and/or ingredient availability.
  
@@ -62,27 +102,6 @@ The user has then the option to connect with local guides, which are affiliated 
   - Booking (http://www.booking.com)
   - Expedia (http://www.expedia.es)
 
-# ApeLucy
- ApeLucy is a mobile app focused on sponsoring mobile data. By analyzing user engagement through games, video ads, surveys and promotions, ApeLucy then communicates with third party services encapsulated as microservices. These services communicate among each other, handling matters such as redeeming promotions, mobile top ups, gift cards and digital wallet balance variations.
-  
-[![JavaScript](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/javascript.json)](https://www.javascript.com/) [![SASS](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/sass.json)](https://sass-lang.com/) [![HTML5](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/html5.json)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Bootstrap](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/bootstrap.json)](https://getbootstrap.com/)
-
- [![PHP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/php.json)](https://www.php.net/) [![Laravel](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/laravel.json)](https://laravel.com/) [![Java](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/java.json)](https://www.java.com/)
- 
- [![RabbitMQ](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/rabbitmq.json)](https://www.rabbitmq.com/) [![Nginx](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/nginx.json)](https://www.nginx.com/) [![MongoDB](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mongodb.json)](https://www.mongodb.com/what-is-mongodb) [![Redis](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/redis.json)](https://redis.io/) [![MySQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mysql.json)](https://www.mysql.com/)
-[![Docker](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/docker.json)](https://www.docker.com/) [![docker-compose](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/docker-compose.json)](https://github.com/docker/compose) [![Ansible](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/ansible.json)](https://www.ansible.com/)
-
-- ##### ***ApeLucy*** required integration with the following services:
-    - Stripe (http://stripe.com)
-    - Paypal (http://www.paypal.com)
-    - Redsys (http://www.redsys.com)
-    - Paysafecard (http://www.paysafecard.com)
-    - Disashop (http://www.disashop.com)
-    - Epay (https://www.epay.com)
-    - Lucidhq (https://luc.id)
-    - Llamaya (https://www.llamaya.com)
-    - Twilio (https://www.twilio.com)
-
 # Enjoyerslife
 Enjoyerslife is a multitenant mobile AR/digital content platform, designed to categorize, serve and download the experiences according to the user preferences/subscription model. Enjoyerslife analyzes the user's hardware capabilities, past content consumption pattern and preferences to propose a set of experiences that match their interests.
 
@@ -108,25 +127,6 @@ MMO+ then allows prospective users to follow a setup assistant, filtering MMOs a
  [![PHP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/php.json)](https://www.php.net/) [![Laravel](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/laravel.json)](https://laravel.com/)
  
 [![Apache](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/apache.json)](https://httpd.apache.org/) [![MySQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mysql.json)](https://www.mysql.com/)
-
-# Even your odds
-External private project that attains surebets by integrating with betting houses, scraping odds, analyzing if any variation is present, and recalculating the optimal mix.
-
- [![JavaScript](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/javascript.json)](https://www.javascript.com/) [![SASS](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/sass.json)](https://sass-lang.com/) [![HTML5](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/html5.json)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Bootstrap](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/bootstrap.json)](https://getbootstrap.com/)
- 
- [![PHP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/php.json)](https://www.php.net/) [![Laravel](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/laravel.json)](https://laravel.com/)
- 
-[![Apache](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/apache.json)](https://httpd.apache.org/) [![MySQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mysql.json)](https://www.mysql.com/)
-
-- ##### ***Even your odds*** required data scraping from the following sites:
-  - William Hill (http://www.williamhill.com/)
-  - Bet365 (http://www.bet365.com)
-  - Kirolbet (http://www.kirolbet.es)
-  - Pinnacle (http://www.pinnacle.com)
-  - Betfair (http://www.betfair.com)
-  - Sportium (http://www.sportium.es)
-  - Luckia (http://luckia.es)
-  - Bwin (http://sports.bwin.com)
 
 # Victum
 Victum breaks down complex machinery into as many subdivisions as required, each one of them becoming an autonomous entity related to other parts or clusters of parts. These entities will have their own set of media attachments, custom attributes, or global attributes such as location, size, and maintenance plan.
