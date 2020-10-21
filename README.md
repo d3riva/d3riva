@@ -6,3 +6,5 @@ We are also accustomed to helm the entire project flow, create ad hoc solutions 
 Please follow these links to check the **[tech stack](https://github.com/d3riva/d3riva/blob/master/tech-stack.md)** we have worked with throughout the years, or some of the **[projects](https://github.com/d3riva/d3riva/blob/master/projects.md)** we have successfully developed.
 
 If you are interested in working with us, please feel free to reach us anytime on **[contact@d3riva.com](mailto:contact@d3riva.com)**.
+
+![d3riva](https://d3riva.com/assets/img/brand.svg)
