@@ -62,8 +62,8 @@ The user has then the option to connect with local guides, which are affiliated 
   - Booking (http://www.booking.com)
   - Expedia (http://www.expedia.es)
 
-# Apelucy
- Apelucy is a mobile app focused on sponsoring mobile data. By analyzing user engagement through games, video ads, surveys and promotions, Apelucy then communicates with third party services encapsulated as microservices. These services communicate among each other, handling matters such as redeeming promotions, mobile top ups, gift cards and digital wallet balance variations.
+# ApeLucy
+ ApeLucy is a mobile app focused on sponsoring mobile data. By analyzing user engagement through games, video ads, surveys and promotions, ApeLucy then communicates with third party services encapsulated as microservices. These services communicate among each other, handling matters such as redeeming promotions, mobile top ups, gift cards and digital wallet balance variations.
   
 [![JavaScript](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/javascript.json)](https://www.javascript.com/) [![React](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/react.json)](https://reactjs.org/) [![SASS](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/sass.json)](https://sass-lang.com/) [![HTML5](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/html5.json)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Bootstrap](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/bootstrap.json)](https://getbootstrap.com/)
 
@@ -72,7 +72,7 @@ The user has then the option to connect with local guides, which are affiliated 
  [![RabbitMQ](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/rabbitmq.json)](https://www.rabbitmq.com/) [![Nginx](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/nginx.json)](https://www.nginx.com/) [![MongoDB](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mongodb.json)](https://www.mongodb.com/what-is-mongodb) [![Redis](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/redis.json)](https://redis.io/) [![MySQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mysql.json)](https://www.mysql.com/)
 [![Docker](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/docker.json)](https://www.docker.com/) [![docker-compose](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/docker-compose.json)](https://github.com/docker/compose) [![Ansible](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/ansible.json)](https://www.ansible.com/)
 
-- ##### ***Apelucy*** required integration with the following services:
+- ##### ***ApeLucy*** required integration with the following services:
     - Stripe (http://stripe.com)
     - Paypal (http://www.paypal.com)
     - Redsys (http://www.redsys.com)
