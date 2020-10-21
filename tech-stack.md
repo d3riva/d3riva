@@ -134,16 +134,16 @@
     -  [Bourne shell (sh)](https://en.wikipedia.org/wiki/Bourne_shell)
     -  [![Zsh](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/zsh.json)](https://www.zsh.org/)
 -  [SSL Certificates](https://en.wikipedia.org/wiki/SSL)
-    -  [![Let's Encrypt](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Let´s-EncryptlogoColor=222222)](https://letsencrypt.org/)
+    -  [![Let's Encrypt](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/lets-encrypt.json)](https://letsencrypt.org/)
 -  [Version control](https://en.wikipedia.org/wiki/Version_control)
     -  [![Git](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/git.json)](https://git-scm.com/)
 
 # Third party
 -  Analytics
-    -  [![Facebook Analytics](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/facebook.json)](https://analytics.facebook.com/)
+    -  [![Facebook Analytics](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/facebook-analytics.json)](https://analytics.facebook.com/)
     -  [![Google Analytics](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/google-analytics.json)](https://analytics.google.com/)
 -  Business
-    -  [![Google Suite](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/google.json)](https://gsuite.google.com/)
+    -  [![Google Suite](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/google-suite.json)](https://gsuite.google.com/)
     -  [![Google Drive](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/google-drive.json)](https://drive.google.com/)
 -  Chat
     -  [![Discord](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/discord.json)](https://discord.com/)
