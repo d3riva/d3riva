@@ -1,6 +1,3 @@
-Technology stack
-========================
-
 # Development
 
 ## [Back-end](https://en.wikipedia.org/wiki/Data_access_layer)
