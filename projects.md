@@ -90,6 +90,8 @@ Voito is an app that provides a set of experiences plus local guidance to users 
 
 The user has then the option to connect with local guides, which are affiliated with the app, and can be filtered according to the user availability, personality type and expertise of both host and guest. Voito then arranges the meeting between both parties and send a remainder when appropiate.
 
+A prototype of the project can be checked [here](https://projects.invisionapp.com/share/359AZ5VCV#/screens/204198791).
+
 [![JavaScript](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/javascript.json)](https://www.javascript.com/) [![React](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/react.json)](https://reactjs.org/) [![SASS](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/sass.json)](https://sass-lang.com/) [![HTML5](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/html5.json)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Bootstrap](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/bootstrap.json)](https://getbootstrap.com/)
  
  [![PHP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/php.json)](https://www.php.net/) [![Laravel](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/laravel.json)](https://laravel.com/) [![GraphQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/graphql.json)](https://graphql.org/) [![Lighthouse](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/lighthouse.json)](https://lighthouse-php.com/) [![GraphQL Playground](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/graphql-playground.json)](https://github.com/graphql/graphql-playground)
@@ -101,6 +103,7 @@ The user has then the option to connect with local guides, which are affiliated 
   - Get your guide (http://www.getyourguide.es)
   - Booking (http://www.booking.com)
   - Expedia (http://www.expedia.es)
+  
 
 # Enjoyerslife
 Enjoyerslife is a multitenant mobile AR/digital content platform, designed to categorize, serve and download the experiences according to the user preferences/subscription model. Enjoyerslife analyzes the user's hardware capabilities, past content consumption pattern and preferences to propose a set of experiences that match their interests.
