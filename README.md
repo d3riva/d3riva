@@ -7,7 +7,7 @@ Please follow this link if you want to check some of the **[projects](https://gi
 
 We have a ample experience working with a variety of technologies and implementations in our projects, which is reflected in our **[tech stack](https://github.com/d3riva/d3riva/blob/master/tech-stack.md)**. 
 
- Our current preferred stack, which serves as basis for a sizeable part of our new developments, consist of the following technologies:
+ Our current preferred stack, which serves as basis for a sizeable part of our new developments, consists of the following technologies:
 
  [![Laravel](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/laravel.json)](https://laravel.com/)
  [![PHP](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/php.json)](https://www.php.net/)
