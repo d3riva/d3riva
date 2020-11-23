@@ -39,7 +39,7 @@ External private project that attains surebets by integrating with betting house
   - Bwin (http://sports.bwin.com)
 
 # TeApetece?
- Te apetece? is a recipe aggregator which scrapes the info from third party data sources and parses its content into an usable output. Te apetece? then arranges the treated recipes into categorized eating plans and, through a relational algorithm, match users with recipes according to needs and/or ingredient availability.
+ [Te apetece?](https://web.archive.org/web/20171005000136/https://teapetece.net/) is a recipe aggregator which scrapes the info from third party data sources and parses its content into an usable output. Te apetece? then arranges the treated recipes into categorized eating plans and, through a relational algorithm, match users with recipes according to needs and/or ingredient availability.
  
   The third party integration of the app also extends to local delivery services, that would directly supply the user with any missing ingredient.
   
@@ -106,7 +106,7 @@ A prototype of the project can be checked [here](https://projects.invisionapp.co
   
 
 # Enjoyerslife
-Enjoyerslife is a multitenant mobile AR/digital content platform, designed to categorize, serve and download the experiences according to the user preferences/subscription model. Enjoyerslife analyzes the user's hardware capabilities, past content consumption pattern and preferences to propose a set of experiences that match their interests.
+[Enjoyerslife](https://webcache.googleusercontent.com/search?q=cache:5ZG7jZFCM3gJ:https://blog.enjoyerslife.com/+&cd=1&hl=es&ct=clnk&gl=es) is a multitenant mobile AR/digital content platform, designed to categorize, serve and download the experiences according to the user preferences/subscription model. Enjoyerslife analyzes the user's hardware capabilities, past content consumption pattern and preferences to propose a set of experiences that match their interests.
 
 Content creators have a private CMS available from which they can upload the experiences or create custom subdivisions inside the main platform to host experiences with distinct attributes. Enjoyerslife then accounts these subdivisions by setting the discoverability of each experience accordingly.
 
@@ -121,7 +121,7 @@ Content creators have a private CMS available from which they can upload the exp
    - Stripe (http://stripe.com)
     
 # MMO+
-A MMO (massively multiplayer online) aggregator. MMO+ relies on manual data input, that is then curated and maintained by the community, to categorize each current and upcoming MMO+ according to a set of tags, checkboxes, and variables.
+A MMO (massively multiplayer online) aggregator. [MMO+](https://web.archive.org/web/20181026044114/https://mmo.plus/) relies on manual data input, that is then curated and maintained by the community, to categorize each current and upcoming MMO+ according to a set of tags, checkboxes, and variables.
  
 MMO+ then allows prospective users to follow a setup assistant, filtering MMOs after each layered step, and providing a final set of games that matches the user requisites.
 
