@@ -18,6 +18,11 @@
     - Lucidhq (https://luc.id)
     - Llamaya (https://www.llamaya.com)
     - Twilio (https://www.twilio.com)
+   
+- #####References:
+    - [Xataka Mobile](https://web.archive.org/web/20180125202245/https://www.xatakamovil.com/aplicaciones/asi-es-apelucy-la-aplicacion-que-regala-megas-a-cambio-de-ver-anuncios)
+    - [Movilonia](https://web.archive.org/save/https://www.movilonia.com/reportajes/ventajas-exclusivas-operadores/)
+    - [Promo](https://www.youtube.com/watch?v=9XE5xHtj9Vw&ab_channel=ApeLucy)
     
 # Even your odds
 External private project that attains surebets by integrating with betting houses, scraping odds, analyzing if any variation is present, and recalculating the optimal mix.
@@ -42,6 +47,8 @@ External private project that attains surebets by integrating with betting house
  [Te apetece?](https://web.archive.org/web/20171005000136/https://teapetece.net/) is a recipe aggregator which scrapes the info from third party data sources and parses its content into an usable output. Te apetece? then arranges the treated recipes into categorized eating plans and, through a relational algorithm, match users with recipes according to needs and/or ingredient availability.
  
   The third party integration of the app also extends to local delivery services, that would directly supply the user with any missing ingredient.
+  
+  Initial pitch video available [here](https://www.youtube.com/watch?v=tc0EjFZJcqE&ab_channel=TeApetece%3FCocinaatugusto).
   
   [![JavaScript](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/javascript.json)](https://www.javascript.com/)  [![Angular](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/angular.json)](https://angular.io/) [![SASS](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/sass.json)](https://sass-lang.com/) [![HTML5](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/html5.json)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![Bootstrap](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/bootstrap.json)](https://getbootstrap.com/)
   
@@ -119,7 +126,7 @@ Content creators have a private CMS available from which they can upload the exp
  
  - ##### ***Enjoyerslife*** required integration with the following services:
    - Stripe (http://stripe.com)
-    
+   
 # MMO+
 A MMO (massively multiplayer online) aggregator. [MMO+](https://web.archive.org/web/20181026044114/https://mmo.plus/) relies on manual data input, that is then curated and maintained by the community, to categorize each current and upcoming MMO+ according to a set of tags, checkboxes, and variables.
  
@@ -131,6 +138,9 @@ MMO+ then allows prospective users to follow a setup assistant, filtering MMOs a
  
 [![Apache](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/apache.json)](https://httpd.apache.org/) [![MySQL](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/d3riva/d3riva/master/badges/json/mysql.json)](https://www.mysql.com/)
 
+- #####References:
+    - [MMORPG.com](https://www.mmorpg.com/news/mmo-helping-players-find-the-perfect-mmo-2000087304)
+    
 # Victum
 Victum breaks down complex machinery into as many subdivisions as required, each one of them becoming an autonomous entity related to other parts or clusters of parts. These entities will have their own set of media attachments, custom attributes, or global attributes such as location, size, and maintenance plan.
 
