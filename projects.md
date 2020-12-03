@@ -19,7 +19,7 @@
     - Llamaya (https://www.llamaya.com)
     - Twilio (https://www.twilio.com)
    
-- ##### ***References***:
+- ##### **References**:
     - [Xataka Mobile](https://web.archive.org/web/20180125202245/https://www.xatakamovil.com/aplicaciones/asi-es-apelucy-la-aplicacion-que-regala-megas-a-cambio-de-ver-anuncios)
     - [Movilonia](https://web.archive.org/save/https://www.movilonia.com/reportajes/ventajas-exclusivas-operadores/)
     - [Promo](https://www.youtube.com/watch?v=9XE5xHtj9Vw&ab_channel=ApeLucy)
